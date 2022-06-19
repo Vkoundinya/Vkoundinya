@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 
-**Vkoundinya/Vkoundinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack Development 
 - 🌱 I’m currently learning Statistics , Machine Learning & Microsoft Azure
 - 👯 I’m looking to collaborate on Full Stack DS/ML Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Data Structures & Algorithms
 - 💬 Ask me about Python , Machine Learning 
 - 📫 How to reach me:
 - :bulb: [medium articles]https://medium.com/@koundinya16.srp
