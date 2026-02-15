@@ -3,10 +3,9 @@
 
 
 - 🔭 I’m currently working on Full Stack Development 
-- 🌱 I’m currently learning Statistics , Machine Learning & Microsoft Azure
-- 👯 I’m looking to collaborate on Full Stack DS/ML Projects
-- 🤔 I’m looking for help with Data Structures & Algorithms
-- 💬 Ask me about Python , Machine Learning 
+- 🌱 I’m currently learning C#, Rust & Microsoft Azure DevOps
+- 👯 I’m looking to collaborate on Backend Projects
+- 💬 Ask me about React, Java, Scalable Design
 - 📫 How to reach me:
 - :bulb: [medium articles]https://medium.com/@koundinya16.srp
 - :office: [linkedin]https://www.linkedin.com/in/venkata-koundinya-ganugapati-5b57b5150/
